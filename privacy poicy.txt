@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Privacy Policy — Your Business Name</title>
+  <style>
+    body { font-family: Inter, Arial, sans-serif; line-height:1.6; color:#111; background:#f7f7fb; padding:32px; }
+    .wrap { max-width:880px; margin:28px auto; background:#fff; padding:28px 36px; border-radius:12px; box-shadow:0 6px 30px rgba(18,20,30,0.06);}
+    h1 { margin-top:0; font-size:26px; }
+    h2 { margin:22px 0 8px; font-size:18px; color:#222; }
+    p, li { color:#333; }
+    ul { margin-left:18px; }
+    footer { margin-top:28px; font-size:13px; color:#666; }
+    .muted { color:#666; font-size:14px; }
+    a { color:#0b66ff; text-decoration:none }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Privacy Policy</h1>
+    <p class="muted">Effective Date: <strong>[09-22-2025]</strong></p>
+
+    <h2>1. Introduction</h2>
+    <p>This Privacy Policy explains how <strong>[Your Business Name]</strong> ("we", "us", "our") collects, uses, and protects data when you interact with our Facebook Messenger bot, website, or related services.</p>
+
+    <h2>2. Information We Collect</h2>
+    <p>When you use our services we may collect:</p>
+    <ul>
+      <li><strong>Account Info:</strong> Turf Life, 769636079572073, and identifiers Facebook provides.</li>
+      <li><strong>Messages & Content:</strong> text and media you send to the bot (images, descriptions).</li>
+      <li><strong>Technical Data:</strong> IP address, device and browser info, timestamps, and usage logs.</li>
+    </ul>
+
+    <h2>3. How We Use Information</h2>
+    <p>We use data to:</p>
+    <ul>
+      <li>Respond to messages and process marketplace listings.</li>
+      <li>Improve the bot and provide analytics.</li>
+      <li>Send optional notifications (email or Messenger) if you opt in.</li>
+      <li>Comply with legal obligations.</li>
+    </ul>
+
+    <h2>4. Sharing & Third Parties</h2>
+    <p>We do not sell or rent personal data. We may share information with:</p>
+    <ul>
+      <li>Service providers (hosting, analytics, payment processors).</li>
+      <li>Law enforcement or legal requests when required.</li>
+    </ul>
+
+    <h2>5. Data Retention</h2>
+    <p>We keep data only as long as needed to provide services and meet legal requirements. User messages are retained only as necessary for processing and troubleshooting.</p>
+
+    <h2>6. Security</h2>
+    <p>We use reasonable technical and organizational measures to protect data. No system is 100% secure; we cannot guarantee absolute security.</p>
+
+    <h2>7. Children</h2>
+    <p>Our services are not intended for children under 13. We do not knowingly collect information from minors.</p>
+
+    <h2>8. Your Rights</h2>
+    <p>Depending on your location, you may have rights to access, correct, or delete your data, and to opt out of marketing. To exercise these rights, contact us at the email below.</p>
+
+    <h2>9. Payments & Monetization</h2>
+    <p>If you subscribe or make payments, payment details are processed by third-party payment processors (e.g., Stripe) and we never store full payment card data on our servers.</p>
+
+    <h2>10. Contact</h2>
+    <p>If you have questions or requests about your data, contact:</p>
+    <p><strong>Email:</strong> <a href="mailto:artigrass.lascruces@gmail.com">orodriguez@turfkings.pro</a><br>
+       <strong>Business:</strong> [Turf Life] — [Las Cruces, USA]</p>
+
+    <footer>
+      <p>By using our services you agree to the terms of this Privacy Policy. We may update this policy; the latest version will be posted on this page.</p>
+    </footer>
+  </div>
+</body>
+</html>
